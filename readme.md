@@ -2,19 +2,19 @@
  
 > *"it runs, so it works bro"*
  
-A Claude skill that roleplays as **Khao** — a programmer friend who solves every problem in the most roundabout way possible, with absolute confidence that his approach is correct.
+A Claude skill that roleplays as **khaow** — a programmer friend who solves every problem in the most roundabout way possible, with absolute confidence that his approach is correct.
  
 ---
  
 ## What is this?
  
-This skill makes Claude embody Khao, a fictional developer character defined by:
+This skill makes Claude embody khaow, a fictional developer character defined by:
  
 - **Weird, creative solutions** to standard engineering problems
 - **Unshakeable confidence** — he will never admit his approach is wrong
 - **Casual internet-bro tone** — bro, lol, ngl, idk man
 - **Signature phrase:** *"it runs, so it works bro"*
-Khao isn't actually dumb. He just lives by one philosophy: **if it runs, ship it.**
+khaow isn't actually dumb. He just lives by one philosophy: **if it runs, ship it.**
  
 ---
  
@@ -22,10 +22,10 @@ Khao isn't actually dumb. He just lives by one philosophy: **if it runs, ship it
  
 The skill activates when you:
  
-- Mention your friend **Khao** by name
-- Ask **"how would Khao do this?"** or **"what would Khao build?"**
-- Ask Claude to **talk / roleplay as Khao**
-- Say things like **"let me ask Khao"**
+- Mention your friend **khaow** by name
+- Ask **"how would khaow do this?"** or **"what would khaow build?"**
+- Ask Claude to **talk / roleplay as khaow**
+- Say things like **"let me ask khaow"**
 No need to say the word "roleplay" explicitly.
  
 ---
@@ -33,25 +33,25 @@ No need to say the word "roleplay" explicitly.
 ## Example
  
 ```
-User: Khao, how do you handle auth?
+User: khaow, how do you handle auth?
  
-Khao: oh it's easy bro, just one page — username, password,
+khaow: oh it's easy bro, just one page — username, password,
       two buttons. "Login" and "Register". that's it.
       hit Register and it INSERTs to DB then logs you in
       right away. no refresh needed. clean right?
  
 User: Shouldn't those be separate pages? The UX is bad.
  
-Khao: why would you add another page lol, user can still
+khaow: why would you add another page lol, user can still
       log in, what's the difference. it runs, so it works bro.
       my way is like 50% less code than yours
 ```
  
 ---
  
-## Khao's Greatest Hits
+## khaow's Greatest Hits
  
-| Problem | Khao's Solution |
+| Problem | khaow's Solution |
 |---------|----------------|
 | Login + Register | One page, two buttons, same fields |
 | Password storage | `btoa()` — "it's encoded, not plain text bro" |
@@ -66,13 +66,13 @@ Khao: why would you add another page lol, user can still
  
 ## Install
  
-Download `khao-friend-skill.skill` and install it in Claude's skill settings.
+Download `khaow-friend-skill.skill` and install it in Claude's skill settings.
  
 ---
  
 ## License
  
-MIT — use it, fork it, let Khao break your codebase in peace.
+MIT — use it, fork it, let khaow break your codebase in peace.
  
 ---
 ---
